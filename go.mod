@@ -1,4 +1,4 @@
-module pubnub.com/go/v5
+module github.com/kleewho/go/v5
 
 go 1.16
 
